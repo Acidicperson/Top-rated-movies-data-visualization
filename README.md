@@ -1,7 +1,7 @@
 # 📺 IMDB Top 5000 TV Shows – Data Analysis Project
 
 This project is a data analysis and visualization notebook built with **Pandas**, **Matplotlib**, and **Seaborn**, focused on exploring the IMDB Top 5000 TV Shows dataset.
-![Top-rated-movies-data-visualization](Top rated.png)
+
 
 ## 📌 Project Overview
 
