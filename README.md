@@ -2,6 +2,8 @@
 
 This project is a data analysis and visualization notebook built with **Pandas**, **Matplotlib**, and **Seaborn**, focused on exploring the IMDB Top 5000 TV Shows dataset.
 
+![Top rated](https://github.com/user-attachments/assets/38f68c58-2e15-4c80-ba14-f10b13363076)
+![Most common genre](https://github.com/user-attachments/assets/98f27490-364c-484a-987a-fa34f45dc09d)
 
 ## 📌 Project Overview
 
@@ -9,6 +11,7 @@ The goal of this analysis is to uncover trends and insights from a large dataset
 
 - Cleaning and loading the dataset
 - Exploring column types and summary statistics
+
 - Identifying top-rated TV shows
 - Analyzing most common genres
 - Visualizing patterns in ratings, votes, and release years
