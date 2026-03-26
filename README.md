@@ -71,5 +71,6 @@ Key columns include:
 ## 📬 Contact
 
 Feel free to reach out or fork the repo!  
-Project by [Your Name Here]
+Project by Ahmad Mayare Abdullahi
+ahmadmayare@gmail.com
 
